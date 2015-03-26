@@ -23,7 +23,10 @@
 }
 
 #header-image h1{
-margin: 0 12%;
+    margin: 22px 0%;
+    padding: 0px 0px;
+    margin-bottom: -12px;
+
 }
 #menu {
   display:none;
@@ -238,4 +241,8 @@ input#contact-submit-dugme {
 .ui-btn.ui-input-btn.ui-corner-all.ui-shadow {
   padding-top: 10px;
   padding-bottom: 10px;
+}
+div#page1 {
+    padding: 0px 0px;
+    padding-bottom: 0px;
 }
